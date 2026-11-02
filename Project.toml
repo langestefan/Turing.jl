@@ -1,6 +1,6 @@
 name = "Turing"
 uuid = "fce5fe82-541a-59a6-adf8-730c64b5f9a0"
-version = "0.43.5"
+version = "0.43.6"
 
 [deps]
 ADTypes = "47edcb42-4c32-4615-8424-f2b9edc5f35b"
@@ -67,7 +67,7 @@ ForwardDiff = "0.10.3, 1"
 Libtask = "0.9.14"
 LinearAlgebra = "1"
 LogDensityProblems = "2"
-MCMCChains = "5, 6, 7"
+MCMCChains = "5, 6, 7, 8"
 Optimization = "3, 4, 5"
 OptimizationOptimJL = "0.1 - 0.4"
 OrderedCollections = "1"
